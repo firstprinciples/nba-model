@@ -2,3 +2,8 @@
 -e .
 
 # external requirements
+tensorflow
+scikit-learn
+pandas
+jupyter
+matplotlib
